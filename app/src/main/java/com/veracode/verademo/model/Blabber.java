@@ -14,7 +14,7 @@ public class Blabber {
 	private String blabName;
 	private Date createdDate;
 	private int numberListeners;
-	private int numberListening;
+	private int numberListening1;
 
 	private final SimpleDateFormat sdf = new SimpleDateFormat("MMM d, yyyy");
 
